@@ -75,4 +75,5 @@ The chat continues until the clients disconnect.
 
 ## OUTPUTS  
 
+![Image](https://github.com/user-attachments/assets/805e0cf8-6ba9-4f8e-ab48-e78ff80b0db5)
 
